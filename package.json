@@ -7,13 +7,9 @@
     "lib": "lib"
   },
   "dependencies": {
-    "coffeescript": "^2.3.2",
     "cucumber": "^5.1.0",
-    "express": "^4.16.4",
-    "mime": "^2.4.0",
     "node": "^11.11.0",
-    "node.js": "0.0.0",
-    "npm": "^6.9.0"
+    "node.js": "0.0.0"
   },
   "devDependencies": {
     "mocha": "^6.0.2"
@@ -23,16 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizaTWF/bddcalc.git"
+    "url": "git+https://github.com/cakehurstryan/bddcalc.git"
   },
-  "keywords": [
-    "help",
-    "me!"
-  ],
-  "author": "efiennes",
+  "author": "cakehurstryan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElizaTWF/bddcalc/issues"
+    "url": "https://github.com/cakehurstryan/bddcalc/issues"
   },
-  "homepage": "https://github.com/ElizaTWF/bddcalc#readme"
+  "homepage": "https://github.com/cakehurstryan/bddcalc#readme"
 }
