@@ -1,7 +1,7 @@
 {
   "name": "bddcalc",
   "version": "1.0.0",
-  "description": "BDD int env with VS and GH",
+  "description": "BDD int environment with VS and GH",
   "main": "index.js",
   "directories": {
     "lib": "lib"
